@@ -1,0 +1,89 @@
+[{
+  "title": "Sunday Morning, Jan. 12",
+  "songs": [{
+    "_id": "i"
+  }, {
+    "_id": "f"
+  }, {
+    "_id": "o"
+  }, {
+    "_id": "b"
+  }, {
+    "_id": "e"
+  }, {
+    "_id": "d"
+  }],
+  "_id": "a",
+  "_acl": {
+    "creator": "demo@songpane.com"
+  },
+  "_kmd": {
+    "lmt": "2013-01-10T21:54:42.600Z"
+  }
+}, {
+  "title": "March Concert",
+  "songs": [{
+    "_id": "a"
+  }, {
+    "_id": "c"
+  }, {
+    "_id": "o"
+  }, {
+    "_id": "n"
+  }, {
+    "_id": "g"
+  }, {
+    "_id": "h"
+  }, {
+    "_id": "j"
+  }, {
+    "_id": "m"
+  }],
+  "_id": "b",
+  "_acl": {
+    "creator": "demo@songpane.com",
+    "r": ["sorin@iclanzan.com"]
+  },
+  "_kmd": {
+    "lmt": "2013-01-09T15:20:49.201Z"
+  }
+}, {
+  "title": "Open Café",
+  "songs": [{
+    "_id": "d",
+    "key": "A"
+  }, {
+    "_id": "b"
+  }, {
+    "_id": "m"
+  }, {
+    "_id": "e"
+  }],
+  "_id": "c",
+  "_acl": {
+    "creator": "demo@songpane.com"
+  },
+  "_kmd": {
+    "lmt": "2013-01-10T14:15:25.514Z"
+  }
+}, {
+  "title": "Practice session on Saturday",
+  "songs": [{
+    "_id": "l"
+    }, {
+    "_id": "k"
+    }, {
+    "_id": "e"
+    }, {
+    "_id": "a"
+  }, {
+    "_id": "f"
+  }],
+  "_id": "d",
+  "_acl": {
+    "creator": "demo@songpane.com"
+  },
+  "_kmd": {
+    "lmt": "2013-01-12T15:45:54.013Z"
+  }
+}]
